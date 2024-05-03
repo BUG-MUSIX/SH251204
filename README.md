@@ -9,9 +9,7 @@ Let me introduce you about myself, my name is 𝐒 ᴏ ʜ ᴇ ʟ ..!!, 18y.o fro
 ## How You Can Find Meh And Where !!
 
 [![Github](https://img.shields.io/badge/-Github-000000?style=for-the-badge&logo=Github&logoColor=white)](https://github.com/SH251204)
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://telegram.me/beingruler)
-[![Instagram](https://img.shields.io/badge/Instagram-FF1493?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/_datboii.laksh)
-[![Youtube](https://img.shields.io/badge/Youtube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@Wichardff)
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://telegram.me/NoT_uR_SoHeL)
 
 
 ## My Stats
