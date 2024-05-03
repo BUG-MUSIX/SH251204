@@ -17,14 +17,14 @@ Let me introduce you about myself, my name is 𝐒 ᴏ ʜ ᴇ ʟ ..!!, 18y.o fro
 ## My Stats
 ![Github Trophy](https://github-profile-trophy.vercel.app/?username=SH251204)
 
-![ GitHub stats](https://github-readme-stats.vercel.app/api?username=2amthought&show_icons=true&theme=tokyonight)
+![ GitHub stats](https://github-readme-stats.vercel.app/api?username=SH251204&show_icons=true&theme=tokyonight)
 
-[![NOICE](https://github-readme-stats.vercel.app/api/top-langs/?username=2amthought&layout=compact&theme=midnight-purple&hide=Css)](https://github.com/2amthought)
+[![NOICE](https://github-readme-stats.vercel.app/api/top-langs/?username=SH251204&layout=compact&theme=midnight-purple&hide=Css)](https://github.com/SH251204)
 
-![Visitor Count](https://profile-counter.glitch.me/2amthought/count.svg)
+![Visitor Count](https://profile-counter.glitch.me/SH251204/count.svg)
 
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=2amthought&" alt="2amthought" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=SH251204&" alt="SH251204" /></p>
 
 ## 🎵 Now playing
 
